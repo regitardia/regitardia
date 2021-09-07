@@ -10,3 +10,5 @@
   <a href="https://www.linkedin.com/in/regitardia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://medium.com/@regitardia" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>  
   <a href="https://www.kaggle.com/regitardia" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>  
+
+  ![Regita Ardia's github stats](https://github-readme-stats.vercel.app/api?username=regitardia&show_icons=true&hide=[%22issues%22])
