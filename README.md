@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Regita Ardia
+# Hi there I'm Regita Ardia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p align="justify">
   Graduated as a bachelor of statistics at Universitas Islam Bandung. According to my educational background, i able to design and build statistical analysis models on large datasets using statistical software. Therefore I have strong of communication, creative problem solving skills, specialized on analyze data, able to work independently or with the team and continous learning.
