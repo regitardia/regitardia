@@ -6,13 +6,6 @@
   Graduated as a bachelor of statistics at Universitas Islam Bandung. According to my educational background, i able to design and build statistical analysis models on large datasets using statistical software. Therefore I have strong of communication, creative problem solving skills, specialized on analyze data, able to work independently or with the team and continous learning.
 </p>
 
-<!-- ## 👁‍🗨 Visitors Count -->
-
-![Visitor Count](https://profile-counter.glitch.me/{regitardia}/count.svg)
-
-<img align='right' src = "https://github.com/regitardia/github-stats-transparent/blob/output/generated/languages.svg">
-
-
 ## 🔍 You Can Find Me at
 
 <p>
