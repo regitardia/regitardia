@@ -1,7 +1,8 @@
 # Hi there I'm Regita <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> 
 
 <p align="justify">
-  i'm currently learning R, SQL, Python, Tableu, Excel and BI. I'm looking for help learning data analyst, data science and machine learning
+  i'm currently learning R, SQL, Python, Tableu, Excel, Spreadsheet, Google Data Studio and Power BI.
+  I'm looking for help learning data analyst, data science and machine learning
 </p>
 
 ## 🔍 You Can Find Me at
