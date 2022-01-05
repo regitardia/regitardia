@@ -2,7 +2,7 @@
 
 <p align="justify">
   i'm currently learning R, SQL, Python, Tableu, Excel, Spreadsheet, Google Data Studio and Power BI.
-  I'm looking for help learning data analyst, data science and machine learning
+  I'm looking for help learning data analyst, data visualization, data science and machine learning
 </p>
 
 ## 🔍 You Can Find Me at
